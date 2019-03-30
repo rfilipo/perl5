@@ -15,6 +15,10 @@ Write code that shows:
 - how many grains were on each square, and
 - the total number of grains
 
+Case the number of grains is less than 1 or greather than 64, the program must trhow an error with the message:
+
+"square must be between 1 and 64"
+
 ## For bonus points
 
 Did you get the tests passing and the code clean? If you want to, these
