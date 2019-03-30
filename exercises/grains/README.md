@@ -15,9 +15,16 @@ Write code that shows:
 - how many grains were on each square, and
 - the total number of grains
 
-Case the number of grains is less than 1 or greather than 64, the program must trhow an error with the message:
+## Skipped tests 
 
+- case the number of grains is less than 1 or greather than 64, the program must throw an error with the message:
+```
 "square must be between 1 and 64"
+```
+
+To run the extra tests, you must install the Test2::Suite module.
+
+[Test2::Suite at metacpan](https://metacpan.org/pod/Test2::Suite)
 
 ## For bonus points
 
